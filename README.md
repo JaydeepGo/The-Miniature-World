@@ -10,10 +10,14 @@ The human-like intelligence {Species} build an isolated world in some new dimens
 
 Number bullet point - Undecied story points.
 
-[ ] - Represent entity
+[ ] - Represent entity.
 
-** Bold ** - Announcement
+** Bold ** - Announcement.
 
-*** Bold-Italic *** - Situation 
+*** Bold-Italic *** - Situation.
 
-( ) - Emotion
+( ) - Emotion.
+
+<! !> - New Story points.
+
+</ /> - Process comments.
