@@ -4,7 +4,7 @@ Just an open story initiative
 ### Base Line ###
 The human-like intelligence {Species} build an isolated world in some new dimension but always depend on the earth's resources to build their world. 
 
-#### Annotations to remember:####
+#### Annotations to remember: ####
 
 { } - Undecied Names.
 
