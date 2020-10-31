@@ -9,7 +9,7 @@
 
 [King] "We need to be fully sure about their capabilities if not then humans may find out about us and I don't have a good feeling about that". 
 
- 1. [Young Intern] Why don't we consider the notorious {Protagonist}[Name-->Maithili] for this mission, who is famous for her trip to earth.
+ 1. [Young Intern] Why don't we consider the notorious {Protagonist} for this mission, who is famous for her trip to earth.
  2. [Young Intern] I think, there is one more person who is well suited for this kind of mission. The notorious {Protagonist} who we all know her for her trips to earth.
 
 [SS] "No No we can't rely on her. Because of her actions, she is banned from {Miniature world} for an indefinite time. After all this, I don't think she will agree to this mission".   
